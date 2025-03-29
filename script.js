@@ -11,10 +11,9 @@ document.addEventListener("DOMContentLoaded", () => {
             if (i < text.length) {
                 textElement.textContent += text.charAt(i);
                 i++;
-                setTimeout(typeWriter, 100);
+                setTimeout(typeWriter, 85);
             }
         }
-
         typeWriter();
     }
 });
