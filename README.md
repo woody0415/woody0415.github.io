@@ -1,4 +1,4 @@
-# 802 Team | Softwares Development
+# PY02 | Softwares Development
 ## 👥 Members : 
 ### Leader / Founder : 
     CEO 〉woody0415
